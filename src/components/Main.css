@@ -1,0 +1,25 @@
+main, .maincom{
+    width: 380px;
+    margin: auto;
+  }
+
+  #game-container {
+    margin: 1em auto;
+    color: black;
+    width: 380px;
+  }
+  
+  #equation {
+    font-size: 2em;
+    margin: auto;
+  }
+  
+  #buttons button {
+    border-radius: .05em;
+    font-size: 3em;
+    height: 2em;
+    margin: .1em;
+    text-align: center;
+    width: 2em; 
+  }
+
