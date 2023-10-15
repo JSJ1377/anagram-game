@@ -1,4 +1,3 @@
-//// Jeremy Jones 01-12-23 JAVASCRIPT DEVELOPER FINAL ////
 import React, {useEffect, useState} from 'react';
 import {Link} from 'react-router-dom';
 import anagrams from './anagrams';
